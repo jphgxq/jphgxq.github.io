@@ -1,0 +1,33 @@
+From e30424afe977ca86dbb2dee17cbca04724707b69 Mon Sep 17 00:00:00 2001
+From: jphgxq <648754774@qq.com>
+Date: Thu, 5 Sep 2019 10:28:36 +0800
+Subject: [PATCH] Revert "123"
+
+This reverts commit 53351cc658a3b3dec7a4a84a86db5f92b7a27348.
+---
+ index.html | 9 ---------
+ 1 file changed, 9 deletions(-)
+
+diff --git a/index.html b/index.html
+index e8e3501..ef48862 100644
+--- a/index.html
++++ b/index.html
+@@ -106,15 +106,6 @@
+                 </ul>
+             </div>
+ 
+-            <div class="row" style="margin-top: 10px">
+-                <h2> Experiencee </h2>
+-                <div class="col-md-12"></div>
+-                <ul>
+-                    <li>2019 VLDB Summer School (in Beijing)<br>
+-                    </li>
+-                </ul>
+-            </div>
+-
+             <hr>
+ 
+             <div class="row" style="margin-top: 10px">
+-- 
+2.6.1.windows.1
+
